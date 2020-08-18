@@ -3,33 +3,33 @@
 <plist version="1.0">
 <dict>
 	<key>DVTConsoleDebuggerInputTextColor</key>
-	<string>0 0 0 1</string>
+	<string>0.97426 0.980417 0.985546 1</string>
 	<key>DVTConsoleDebuggerInputTextFont</key>
 	<string>SFMono-Bold - 12.0</string>
 	<key>DVTConsoleDebuggerOutputTextColor</key>
-	<string>0 0 0 1</string>
+	<string>0.97426 0.980417 0.985546 1</string>
 	<key>DVTConsoleDebuggerOutputTextFont</key>
 	<string>SFMono-Medium - 12.0</string>
 	<key>DVTConsoleDebuggerPromptTextColor</key>
-	<string>0.317071 0.437736 1 1</string>
+	<string>0.327778 0.664732 1 1</string>
 	<key>DVTConsoleDebuggerPromptTextFont</key>
 	<string>SFMono-Bold - 12.0</string>
 	<key>DVTConsoleExectuableInputTextColor</key>
-	<string>0 0 0 1</string>
+	<string>0.97426 0.980417 0.985546 1</string>
 	<key>DVTConsoleExectuableInputTextFont</key>
 	<string>SFMono-Medium - 12.0</string>
 	<key>DVTConsoleExectuableOutputTextColor</key>
-	<string>0 0 0 1</string>
+	<string>0.97426 0.980417 0.985546 1</string>
 	<key>DVTConsoleExectuableOutputTextFont</key>
 	<string>SFMono-Bold - 12.0</string>
 	<key>DVTConsoleTextBackgroundColor</key>
-	<string>1 1 1 1</string>
+	<string>0.103206 0.120829 0.136862 1</string>
 	<key>DVTConsoleTextInsertionPointColor</key>
-	<string>0 0 0 1</string>
+	<string>1 0.848334 0.179246 1</string>
 	<key>DVTConsoleTextSelectionColor</key>
-	<string>0.642038 0.802669 0.999195 1</string>
+	<string>0.0998054 0.163407 0.227577 1</string>
 	<key>DVTDebuggerInstructionPointerColor</key>
-	<string>0.705792 0.8 0.544 1</string>
+	<string>1 0.848334 0.179246 1</string>
 	<key>DVTFontAndColorVersion</key>
 	<integer>1</integer>
 	<key>DVTLineSpacing</key>
